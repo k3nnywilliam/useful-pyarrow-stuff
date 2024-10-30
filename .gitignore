@@ -1,0 +1,6 @@
+.DS_Store
+data/
+
+.csv
+.parquet
+.venv
